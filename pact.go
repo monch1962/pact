@@ -1,3 +1,4 @@
+package pact
 // Data structures for Pact (https://pact.io)
 
 type Consumer struct {
